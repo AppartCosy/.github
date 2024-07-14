@@ -19,7 +19,7 @@ AppartCosy est une application dédiée à la location de courte durée, offrant
 
 ## Technologies Utilisées
 
-- **Frontend**: Next.js, CSS
+- **Frontend**: Next.js,
 - **Backend**: Laravel
 - **Base de données**: MySQL
 - **Contrôle de version**: Git, Git Flow
@@ -41,15 +41,15 @@ AppartCosy est une application dédiée à la location de courte durée, offrant
 
     - Pour le frontend:
         ```sh
-        git clone https://github.com/organisation/appartCosy-frontend.git
-        cd appartCosy-frontend
+        git clone https://github.com/AppartCosy/appartcosy-frontend.git
+        cd appartcosy-frontend
         npm install
         ```
 
     - Pour le backend:
         ```sh
-        git clone https://github.com/organisation/appartCosy-backend.git
-        cd appartCosy-backend
+        git clone https://github.com/AppartCosy/appartcosy-backend.git
+        cd appartcosy-backend
         composer install
         ```
 
@@ -140,7 +140,7 @@ Avant de pousser sur la branche `main`, ouvrez d'abord une Pull Request pour ré
 
 ## Support
 
-Si vous avez des questions ou avez besoin d'aide, veuillez ouvrir une [issue](https://github.com/organisation/AppartCosy/issues) ou contacter l'équipe de développement.
+Si vous avez des questions ou avez besoin d'aide, veuillez ouvrir une [issue](https://github.com/AppartCosy/issues) ou contacter l'équipe de développement.
 
 
 
